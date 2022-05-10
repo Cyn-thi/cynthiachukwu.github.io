@@ -780,7 +780,7 @@ color: #fff;
     }
 
     #car-section .brands-section {
-       height: 240vh;
+       min-height: 240vh;
     }
 
     #review-section .container h3 {
